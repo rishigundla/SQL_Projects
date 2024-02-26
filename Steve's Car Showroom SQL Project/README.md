@@ -26,4 +26,4 @@ Steve runs a top-end car showroom but his data analyst has just quit and left hi
 9. What is the name and city of the salesperson who sold the most number of cars in the year 2023?
 10. What is the name and age of the salesperson who generated the highest revenue in the year 2022?
     
-Access solutions [Here](./Challenge_1.sql)
+Access solutions [Here](./Steve_Car_Showroom_SQL_Queries.sql)
