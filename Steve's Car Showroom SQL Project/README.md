@@ -1,6 +1,6 @@
 # Challenge 1 - Steve's Car Showroom
 
-![alt text](./Images/img.PNG)
+![alt text](./Images/img.png)
 
 ## Problem Statement
 Steve runs a top-end car showroom but his data analyst has just quit and left him without his crucial insights. We have to analyse the data to provide him with all the answers he requires.
@@ -11,7 +11,7 @@ Steve runs a top-end car showroom but his data analyst has just quit and left hi
 ![alt text](./Images/ERD.png)
 
 ## Tables
-![alt text](./Images/tables.PNG)
+![alt text](./Images/tables.png)
 
 ## Questions
 
