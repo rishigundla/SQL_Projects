@@ -26,4 +26,4 @@ The top eSports competitors from across the globe have gathered to battle it out
 9. What are the team names and the number of players in each team whose salary is greater than 100,000?
 10. What is the date and the score of the match with match_id = 3?
     
-Access solutions [Here](./Challenge_2.sql)
+Access solutions [Here](./eSports_Tournament_SQL_Queries.sql)
