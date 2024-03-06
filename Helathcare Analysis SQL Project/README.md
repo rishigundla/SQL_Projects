@@ -34,4 +34,4 @@ As a Healthcare Analyst, we have been tasked to analyse the hospital records to 
 9. Write a SQL query to retrieve the average age of patients for each diagnosis, ordered by the average age in descending order.
 10. Write a SQL query to calculate the cumulative count of visits over time, ordered by the visit date.
     
-Access solutions [Here](./Challenge_7.sql)
+Access solutions [Here](./Healthcare_Analysis_SQL_Queries.sql)
