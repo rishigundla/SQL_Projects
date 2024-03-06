@@ -34,4 +34,4 @@ As a Customer Insights Analyst for 'The General Store', we have to analyse the g
 9. What is the name of the country with the highest number of orders?
 10. What is the average age of customers who made orders in the 'vitamins' product category?
     
-Access solutions [Here](./Challenge_3.sql)
+Access solutions [Here](./Customer_Insights_SQL_Queries.sql)
