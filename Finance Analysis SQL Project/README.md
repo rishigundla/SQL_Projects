@@ -34,4 +34,4 @@ As a Finance Analyst at 'The Big Bank', we have been tasked with finding out abo
 9. Which customer has the highest total balance across all of their accounts, including savings and checking accounts?
 10. Which branch has the highest number of transactions in the Transactions table?
     
-Access solutions [Here](./Challenge_4.sql)
+Access solutions [Here](./Finance_Analysis_SQL_Queries.sql)
