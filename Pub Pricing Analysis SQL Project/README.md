@@ -35,4 +35,4 @@ As a Pricing Analyst at pub chain called 'Pubs "R" Us', we have been tasked with
 10. For each country, what is the average price per unit of beverages in each category, and what is the overall average price per unit of beverages across all categories?
 11. For each pub, what is the percentage contribution of each category of beverages to the total sales amount, and what is the pub's overall sales amount?
     
-Access solutions [Here](./Challenge_5.sql)
+Access solutions [Here](./Pub_Pricing_Analysis_SQL_Queries.sql)
