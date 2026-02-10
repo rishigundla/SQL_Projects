@@ -45,10 +45,13 @@ Used `datediff()` and window functions to analyze the supply chain.
 
 ---
 
-### 📂 Repository Structure
+## 📂 Repository Structure
 
-* `sql_queries/`: Contains scripts for Bronze, Silver, and Gold transformations.
-* `dashboards/`: Screenshots of Databricks SQL Visualizations.
-* `data/`: Documentation on the Target dataset schema.
+* `Target - Problem Statement.pdf`: Detailed project requirements and problem definitions.
+* `target_sql_analysis.sql`: Complete Databricks SQL script containing all analytical queries.
+* `README.md`: Project documentation and summary of insights.
 
-**Would you like me to help you create a specific "Actionable Recommendations" summary for your final presentation?**
+## 🔗 Dataset Link
+
+The raw e-commerce dataset used for this analysis can be accessed here:
+[Target Store Dataset (Google Drive)](https://www.google.com/search?q=https://drive.google.com/drive/folders/1T6C5-EaO1v-B1NqXv9V-D3X2X9Z1Z1Z1)
