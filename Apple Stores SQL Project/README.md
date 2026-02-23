@@ -62,7 +62,8 @@ The project uses five main tables:
    - `sale_id`: References the sales table.
    - `repair_status`: Status of the warranty claim (e.g., Paid Repaired, Warranty Void).
   
-**[Get the Project Datasets](./Apple%20Stores%20SQL%20Project/apple_datasets.zip)**
+**Download Datasets:**  
+[Get the Project Datasets](./apple_datasets.zip)
 
 ## Objectives
 
@@ -101,7 +102,8 @@ The project is split into three tiers of questions to test SQL skills of increas
 
 - Analyze product sales trends over time, segmented into key periods: from launch to 6 months, 6-12 months, 12-18 months, and beyond 18 months.
 
-**[Get the SQL Queries](./Apple%20Stores%20SQL%20Project/apple_sql_queries.sql)**
+**Download SQL Queries:**  
+[Get the SQL Queries](./apple_sql_queries.sql)
 
 ## Project Focus
 
