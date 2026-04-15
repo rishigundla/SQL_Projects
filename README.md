@@ -453,20 +453,88 @@ Consolidated in `all_solutions.sql` **(149 KB)**
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="28" /> Skills & Expertise
 
-<br/>
-
 <div align="center">
 
-| Skill | Proficiency | Techniques |
-|:------|:----------:|:-----------|
-| **Window Functions** | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-e94560?style=flat-square) | `ROW_NUMBER` `RANK` `DENSE_RANK` `LAG` `LEAD` `SUM OVER` `PARTITION BY` |
-| **Joins & Subqueries** | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-e94560?style=flat-square) | `INNER` `LEFT` `CROSS JOIN` Multi-table chains (4+) Correlated subqueries |
-| **Aggregation** | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-e94560?style=flat-square) | `COUNT` `SUM` `AVG` `MAX` `MIN` `GROUP BY` `HAVING` `SUM CASE WHEN` |
-| **CTEs** | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%A1-0f3460?style=flat-square) | Multi-stage pipelines, Recursive CTEs, Percentage calculations |
-| **Data Transformation** | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%A1%E2%96%A1-0f3460?style=flat-square) | `PIVOT` `UNPIVOT` `CASE WHEN` `CONCAT` `SUBSTRING` `STRING_AGG` |
-| **Date & Time** | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%A1%E2%96%A1-0f3460?style=flat-square) | `YEAR` `MONTH` `DATEDIFF` `DATE_FORMAT` Interval arithmetic, YoY comparisons |
-| **Schema Design** | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%A1%E2%96%A1%E2%96%A1-16213e?style=flat-square) | `CREATE TABLE` with constraints, `ALTER TABLE`, Foreign key design |
-| **Cloud Platforms** | ![](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%A1%E2%96%A1%E2%96%A1-16213e?style=flat-square) | Databricks SQL Warehouse, Delta Lake, Unity Catalog |
+<br/>
+
+<table>
+<tr>
+<td align="center" width="250">
+<br/>
+<img src="https://img.shields.io/badge/Window_Functions-Expert-e94560?style=for-the-badge" />
+<br/><br/>
+<code>ROW_NUMBER</code> <code>RANK</code> <code>DENSE_RANK</code><br/>
+<code>LAG</code> <code>LEAD</code> <code>SUM OVER</code><br/>
+<code>PARTITION BY</code>
+<br/><br/>
+</td>
+<td align="center" width="250">
+<br/>
+<img src="https://img.shields.io/badge/Joins_&_Subqueries-Expert-e94560?style=for-the-badge" />
+<br/><br/>
+<code>INNER</code> <code>LEFT</code> <code>CROSS JOIN</code><br/>
+Multi-table chains (4+)<br/>
+Correlated subqueries
+<br/><br/>
+</td>
+<td align="center" width="250">
+<br/>
+<img src="https://img.shields.io/badge/Aggregation-Expert-e94560?style=for-the-badge" />
+<br/><br/>
+<code>COUNT</code> <code>SUM</code> <code>AVG</code> <code>MAX</code><br/>
+<code>GROUP BY</code> <code>HAVING</code><br/>
+<code>SUM CASE WHEN</code>
+<br/><br/>
+</td>
+<td align="center" width="250">
+<br/>
+<img src="https://img.shields.io/badge/CTEs-Advanced-0f3460?style=for-the-badge" />
+<br/><br/>
+Multi-stage pipelines<br/>
+Recursive CTEs<br/>
+Percentage calculations
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="250">
+<br/>
+<img src="https://img.shields.io/badge/Data_Transformation-Advanced-0f3460?style=for-the-badge" />
+<br/><br/>
+<code>PIVOT</code> <code>UNPIVOT</code><br/>
+<code>CASE WHEN</code> <code>CONCAT</code><br/>
+<code>SUBSTRING</code> <code>STRING_AGG</code>
+<br/><br/>
+</td>
+<td align="center" width="250">
+<br/>
+<img src="https://img.shields.io/badge/Date_&_Time-Advanced-0f3460?style=for-the-badge" />
+<br/><br/>
+<code>DATEDIFF</code> <code>DATE_FORMAT</code><br/>
+Interval arithmetic<br/>
+YoY comparisons
+<br/><br/>
+</td>
+<td align="center" width="250">
+<br/>
+<img src="https://img.shields.io/badge/Schema_Design-Intermediate-16213e?style=for-the-badge" />
+<br/><br/>
+<code>CREATE TABLE</code> + constraints<br/>
+<code>ALTER TABLE</code><br/>
+Foreign key design
+<br/><br/>
+</td>
+<td align="center" width="250">
+<br/>
+<img src="https://img.shields.io/badge/Cloud_Platforms-Intermediate-16213e?style=for-the-badge" />
+<br/><br/>
+Databricks SQL Warehouse<br/>
+Delta Lake<br/>
+Unity Catalog
+<br/><br/>
+</td>
+</tr>
+</table>
 
 </div>
 
