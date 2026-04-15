@@ -1,0 +1,4 @@
+create table customers  (customer_name varchar(30))
+insert into customers values ('Ankit Bansal')
+,('Vishal Pratap Singh')
+,('Michael'); 

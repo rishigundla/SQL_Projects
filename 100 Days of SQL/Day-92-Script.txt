@@ -1,0 +1,13 @@
+CREATE TABLE seats (
+    id INT,
+    student VARCHAR(10)
+);
+
+INSERT INTO seats VALUES 
+(1, 'Amit'),
+(2, 'Deepa'),
+(3, 'Rohit'),
+(4, 'Anjali'),
+(5, 'Neha'),
+(6, 'Sanjay'),
+(7, 'Priya');
