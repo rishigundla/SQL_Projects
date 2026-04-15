@@ -55,8 +55,7 @@ MySQL, PostgreSQL, and Databricks with Delta Lake.
 - [More Projects](#-more-projects)
 - [100 Days of SQL](#-100-days-of-sql)
 - [Skills & Expertise](#-skills--expertise)
-- [Getting Started](#-getting-started)
-- [Connect](#-connect-with-me)
+- [Getting Started](#getting-started)
 
 </details>
 
@@ -642,7 +641,7 @@ Unity Catalog
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> Getting Started
+## Getting Started
 
 <br/>
 
@@ -672,30 +671,6 @@ sql-projects/
 > **Prerequisites:** Any SQL client (MySQL Workbench, pgAdmin, DBeaver, VS Code) — Databricks workspace for the Target project.
 
 Each project folder includes the SQL query file, datasets (where applicable), and a project-specific README with schema details.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=2" width="100%"/>
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="28" /> Connect with Me
-
-<div align="center">
-
-<br/>
-
-<a href="https://github.com/rishigundla"><img src="https://img.shields.io/badge/GitHub-rishigundla-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-If you found this useful, consider giving the repo a **star** — it helps others discover it!
-
-<br/>
-
-<a href="https://github.com/rishigundla/sql-projects/stargazers"><img src="https://img.shields.io/github/stars/rishigundla/sql-projects?style=social"/></a>
-
-</div>
 
 <br/>
 
